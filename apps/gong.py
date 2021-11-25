@@ -170,7 +170,7 @@ def number_of_recipients(start_date, end_date, state):
     df['additional_doses_vax_pct'] = df['additional_doses_vax_pct'].astype(float)
     
     df_filter = df[df['date'] <= pd.to_datetime(end_date)]
-    df_filter = df[df['date'] >= pd.to_datetime(start_date)]
+    df_filter = df_filter[df_filter['date'] >= pd.to_datetime(start_date)]
     df_filter = df_filter[df_filter['location'] == state]
     
     fig_pct = make_subplots(rows=2, cols=2)

@@ -25,7 +25,7 @@ layout = html.Div([
         verticalAligh = 'middle')
     ),
     html.Img(id = 'image',
-             style = {'width': '170vh', 'height': '80vh'})
+             style = {'width': '150vh', 'height': '80vh'})
 ])
 
 @app.callback(
