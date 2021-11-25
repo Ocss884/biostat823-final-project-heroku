@@ -18,11 +18,11 @@ link_list = html.Div([
     dcc.Location(id='url', refresh=False),
     dcc.Link(dbc.Button('home', style={"width":"12em"}), href='/apps/home'),
     html.Br(),
-    dcc.Link(html.Button('Model Performance', style={"width":"12em"}), href='/apps/lucy'),
-    html.Br(),
     dcc.Link(html.Button('Vaccine Distribution', style={"width":"12em"}), href='/apps/gong'),
     html.Br(),
     dcc.Link(html.Button('Reported and Forcasted Death Cases', style={"width":"12em"}), href='/apps/gong2'),
+    html.Br(),
+    dcc.Link(html.Button('Model Performance', style={"width":"12em"}), href='/apps/lucy'),
     html.Br(),
     dcc.Link(html.Button('Model Explanation', style={"width":"12em"}), href='/apps/jenny')
 ])
