@@ -10,9 +10,9 @@ import dash_daq as daq
 from dash import dcc, html
 
 from app import app, server
-# from apps import lucy, gong, gong2, jenny
+from apps import lucy
 from apps import home
-
+# , gong, gong2, jenny
 # Side panel
 link_list = html.Div([
     dcc.Location(id='url', refresh=False),
@@ -62,8 +62,8 @@ app.layout = html.Div([
 def display_page(pathname):
     if pathname == '/apps/home' or pathname == '/':
         return home.layout
-    # elif pathname == '/apps/lucy':
-    #     return lucy.layout
+    elif pathname == '/apps/lucy':
+        return lucy.layout
     # elif pathname == '/apps/gong':
     #     return gong.layout
     # elif pathname == '/apps/gong2':
