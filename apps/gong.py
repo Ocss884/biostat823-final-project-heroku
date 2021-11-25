@@ -128,7 +128,7 @@ def distribution_by_location_date(start_date, end_date, state):
 
 def distribution_compare(start_date, end_date, state):
     df_filter = df[df['date'] <= pd.to_datetime(end_date)]
-    df_filter = df[df['date'] >= pd.to_datetime(start_date)]
+    df_filter = df_filter[df_filter['date'] >= pd.to_datetime(start_date)]
     df_filter = df_filter[df_filter['location'] == state]
     
     fig_compare = make_subplots(rows=2, cols=2)
