@@ -1,0 +1,181 @@
+Model,Method,variable,value,a_11,a_12,a_21,a_22
+Ridge Classifier,Dataset after Deleting all the NAs,Accuracy,0.9293,12,5,1,159
+K Neighbors Classifier,Dataset after Deleting all the NAs,Accuracy,0.922,4,13,2,158
+Logistic Regression,Dataset after Deleting all the NAs,Accuracy,0.9195,11,6,3,157
+Light Gradient Boosting Machine,Dataset after Deleting all the NAs,Accuracy,0.9171,8,9,4,156
+Linear Discriminant Analysis,Dataset after Deleting all the NAs,Accuracy,0.9122,12,5,7,153
+CatBoost Classifier,Dataset after Deleting all the NAs,Accuracy,0.9122,0,0,0,0
+Ada Boost Classifier,Dataset after Deleting all the NAs,Accuracy,0.9098,11,6,5,155
+Gradient Boosting Classifier,Dataset after Deleting all the NAs,Accuracy,0.9098,11,6,3,157
+Random Forest Classifier,Dataset after Deleting all the NAs,Accuracy,0.9073,6,11,6,154
+Extreme Gradient Boosting,Dataset after Deleting all the NAs,Accuracy,0.9024,11,6,4,156
+Quadratic Discriminant Analysis,Dataset after Deleting all the NAs,Accuracy,0.9,0,17,0,160
+Extra Trees Classifier,Dataset after Deleting all the NAs,Accuracy,0.9,10,7,4,156
+SVM - Linear Kernel,Dataset after Deleting all the NAs,Accuracy,0.8951,13,4,6,154
+Decision Tree Classifier,Dataset after Deleting all the NAs,Accuracy,0.8878,12,5,4,156
+Naive Bayes,Dataset after Deleting all the NAs,Accuracy,0.6878,17,0,55,105
+CatBoost Classifier,Dataset after Dealing with Imbalance,Accuracy,0.9689,0,0,0,0
+Extra Trees Classifier,Dataset after Dealing with Imbalance,Accuracy,0.9676,154,5,6,153
+Light Gradient Boosting Machine,Dataset after Dealing with Imbalance,Accuracy,0.9676,154,5,10,149
+Gradient Boosting Classifier,Dataset after Dealing with Imbalance,Accuracy,0.9662,154,5,9,150
+Random Forest Classifier,Dataset after Dealing with Imbalance,Accuracy,0.9635,156,3,14,145
+Extreme Gradient Boosting,Dataset after Dealing with Imbalance,Accuracy,0.9635,152,7,13,146
+Ridge Classifier,Dataset after Dealing with Imbalance,Accuracy,0.9527,152,7,2,157
+Linear Discriminant Analysis,Dataset after Dealing with Imbalance,Accuracy,0.9527,152,7,2,157
+Ada Boost Classifier,Dataset after Dealing with Imbalance,Accuracy,0.9514,155,4,13,146
+Logistic Regression,Dataset after Dealing with Imbalance,Accuracy,0.9473,154,5,6,153
+Decision Tree Classifier,Dataset after Dealing with Imbalance,Accuracy,0.9473,153,6,15,144
+Quadratic Discriminant Analysis,Dataset after Dealing with Imbalance,Accuracy,0.9446,142,17,0,159
+K Neighbors Classifier,Dataset after Dealing with Imbalance,Accuracy,0.927,158,1,19,140
+SVM - Linear Kernel,Dataset after Dealing with Imbalance,Accuracy,0.9108,150,9,1,158
+Naive Bayes,Dataset after Dealing with Imbalance,Accuracy,0.8838,157,2,50,109
+Ridge Classifier,Dataset after Deleting all the NAs,AUC,0.0,12,5,1,159
+K Neighbors Classifier,Dataset after Deleting all the NAs,AUC,0.7587,4,13,2,158
+Logistic Regression,Dataset after Deleting all the NAs,AUC,0.9143,11,6,3,157
+Light Gradient Boosting Machine,Dataset after Deleting all the NAs,AUC,0.9189,8,9,4,156
+Linear Discriminant Analysis,Dataset after Deleting all the NAs,AUC,0.91,12,5,7,153
+CatBoost Classifier,Dataset after Deleting all the NAs,AUC,0.9234,0,0,0,0
+Ada Boost Classifier,Dataset after Deleting all the NAs,AUC,0.9045,11,6,5,155
+Gradient Boosting Classifier,Dataset after Deleting all the NAs,AUC,0.9196,11,6,3,157
+Random Forest Classifier,Dataset after Deleting all the NAs,AUC,0.8145,6,11,6,154
+Extreme Gradient Boosting,Dataset after Deleting all the NAs,AUC,0.9113,11,6,4,156
+Quadratic Discriminant Analysis,Dataset after Deleting all the NAs,AUC,0.5,0,17,0,160
+Extra Trees Classifier,Dataset after Deleting all the NAs,AUC,0.8822,10,7,4,156
+SVM - Linear Kernel,Dataset after Deleting all the NAs,AUC,0.0,13,4,6,154
+Decision Tree Classifier,Dataset after Deleting all the NAs,AUC,0.664,12,5,4,156
+Naive Bayes,Dataset after Deleting all the NAs,AUC,0.8823,17,0,55,105
+CatBoost Classifier,Dataset after Dealing with Imbalance,AUC,0.996,0,0,0,0
+Extra Trees Classifier,Dataset after Dealing with Imbalance,AUC,0.9951,154,5,6,153
+Light Gradient Boosting Machine,Dataset after Dealing with Imbalance,AUC,0.9958,154,5,10,149
+Gradient Boosting Classifier,Dataset after Dealing with Imbalance,AUC,0.9947,154,5,9,150
+Random Forest Classifier,Dataset after Dealing with Imbalance,AUC,0.9935,156,3,14,145
+Extreme Gradient Boosting,Dataset after Dealing with Imbalance,AUC,0.9936,152,7,13,146
+Ridge Classifier,Dataset after Dealing with Imbalance,AUC,0.0,152,7,2,157
+Linear Discriminant Analysis,Dataset after Dealing with Imbalance,AUC,0.9933,152,7,2,157
+Ada Boost Classifier,Dataset after Dealing with Imbalance,AUC,0.9905,155,4,13,146
+Logistic Regression,Dataset after Dealing with Imbalance,AUC,0.9917,154,5,6,153
+Decision Tree Classifier,Dataset after Dealing with Imbalance,AUC,0.9473,153,6,15,144
+Quadratic Discriminant Analysis,Dataset after Dealing with Imbalance,AUC,0.9446,142,17,0,159
+K Neighbors Classifier,Dataset after Dealing with Imbalance,AUC,0.9766,158,1,19,140
+SVM - Linear Kernel,Dataset after Dealing with Imbalance,AUC,0.0,150,9,1,158
+Naive Bayes,Dataset after Dealing with Imbalance,AUC,0.9783,157,2,50,109
+Ridge Classifier,Dataset after Deleting all the NAs,F1,0.9617,12,5,1,159
+K Neighbors Classifier,Dataset after Deleting all the NAs,F1,0.9581,4,13,2,158
+Logistic Regression,Dataset after Deleting all the NAs,F1,0.9561,11,6,3,157
+Light Gradient Boosting Machine,Dataset after Deleting all the NAs,F1,0.9547,8,9,4,156
+Linear Discriminant Analysis,Dataset after Deleting all the NAs,F1,0.9513,12,5,7,153
+CatBoost Classifier,Dataset after Deleting all the NAs,F1,0.9525,0,0,0,0
+Ada Boost Classifier,Dataset after Deleting all the NAs,F1,0.9504,11,6,5,155
+Gradient Boosting Classifier,Dataset after Deleting all the NAs,F1,0.9506,11,6,3,157
+Random Forest Classifier,Dataset after Deleting all the NAs,F1,0.9495,6,11,6,154
+Extreme Gradient Boosting,Dataset after Deleting all the NAs,F1,0.9465,11,6,4,156
+Quadratic Discriminant Analysis,Dataset after Deleting all the NAs,F1,0.9474,0,17,0,160
+Extra Trees Classifier,Dataset after Deleting all the NAs,F1,0.9457,10,7,4,156
+SVM - Linear Kernel,Dataset after Deleting all the NAs,F1,0.9418,13,4,6,154
+Decision Tree Classifier,Dataset after Deleting all the NAs,F1,0.938,12,5,4,156
+Naive Bayes,Dataset after Deleting all the NAs,F1,0.7894,17,0,55,105
+CatBoost Classifier,Dataset after Dealing with Imbalance,F1,0.9690000000000001,0,0,0,0
+Extra Trees Classifier,Dataset after Dealing with Imbalance,F1,0.9675,154,5,6,153
+Light Gradient Boosting Machine,Dataset after Dealing with Imbalance,F1,0.9675,154,5,10,149
+Gradient Boosting Classifier,Dataset after Dealing with Imbalance,F1,0.9665,154,5,9,150
+Random Forest Classifier,Dataset after Dealing with Imbalance,F1,0.9625,156,3,14,145
+Extreme Gradient Boosting,Dataset after Dealing with Imbalance,F1,0.9636,152,7,13,146
+Ridge Classifier,Dataset after Dealing with Imbalance,F1,0.9542,152,7,2,157
+Linear Discriminant Analysis,Dataset after Dealing with Imbalance,F1,0.9542,152,7,2,157
+Ada Boost Classifier,Dataset after Dealing with Imbalance,F1,0.9514,155,4,13,146
+Logistic Regression,Dataset after Dealing with Imbalance,F1,0.9472,154,5,6,153
+Decision Tree Classifier,Dataset after Dealing with Imbalance,F1,0.9466,153,6,15,144
+Quadratic Discriminant Analysis,Dataset after Dealing with Imbalance,F1,0.948,142,17,0,159
+K Neighbors Classifier,Dataset after Dealing with Imbalance,F1,0.9229,158,1,19,140
+SVM - Linear Kernel,Dataset after Dealing with Imbalance,F1,0.9091,150,9,1,158
+Naive Bayes,Dataset after Dealing with Imbalance,F1,0.8707,157,2,50,109
+Logistic Regression,Dataset after Missing Data Imputation,Accuracy,0.9390000000000001,21,8,0,197
+Light Gradient Boosting Machine,Dataset after Missing Data Imputation,Accuracy,0.9295,17,12,5,192
+Ridge Classifier,Dataset after Missing Data Imputation,Accuracy,0.9275,20,9,0,197
+Linear Discriminant Analysis,Dataset after Missing Data Imputation,Accuracy,0.9217,21,8,5,192
+Extra Trees Classifier,Dataset after Missing Data Imputation,Accuracy,0.9181,17,12,7,190
+K Neighbors Classifier,Dataset after Missing Data Imputation,Accuracy,0.9179999999999999,16,13,6,191
+CatBoost Classifier,Dataset after Missing Data Imputation,Accuracy,0.9179999999999999,0,0,0,0
+Extreme Gradient Boosting,Dataset after Missing Data Imputation,Accuracy,0.9142,19,10,5,192
+Gradient Boosting Classifier,Dataset after Missing Data Imputation,Accuracy,0.9141,18,11,7,190
+Ada Boost Classifier,Dataset after Missing Data Imputation,Accuracy,0.9124,20,9,5,192
+Random Forest Classifier,Dataset after Missing Data Imputation,Accuracy,0.9047,18,11,5,192
+Decision Tree Classifier,Dataset after Missing Data Imputation,Accuracy,0.8931,18,11,17,180
+SVM - Linear Kernel,Dataset after Missing Data Imputation,Accuracy,0.8704,23,6,8,189
+Naive Bayes,Dataset after Missing Data Imputation,Accuracy,0.5896,28,1,89,108
+Quadratic Discriminant Analysis,Dataset after Missing Data Imputation,Accuracy,0.5876,28,1,7,80
+Logistic Regression,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9390000000000001,187,10,11,186
+Light Gradient Boosting Machine,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9295,194,3,9,188
+Ridge Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9275,188,9,14,183
+Linear Discriminant Analysis,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9217,188,9,14,183
+Extra Trees Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9181,191,6,10,187
+K Neighbors Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9179999999999999,196,1,21,176
+CatBoost Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9179999999999999,0,0,0,0
+Extreme Gradient Boosting,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9142,194,3,11,186
+Gradient Boosting Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9141,194,3,10,187
+Ada Boost Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9124,186,11,11,186
+Random Forest Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.9047,190,7,10,187
+Decision Tree Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.8931,184,13,15,182
+SVM - Linear Kernel,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.8704,192,5,32,165
+Naive Bayes,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.5896,183,14,41,156
+Quadratic Discriminant Analysis,Dataset after Missing Data Imputation and Dealing with Imbalance,Accuracy,0.5876,177,20,5,192
+Logistic Regression,Dataset after Missing Data Imputation,AUC,0.9431,21,8,0,197
+Light Gradient Boosting Machine,Dataset after Missing Data Imputation,AUC,0.9229,17,12,5,192
+Ridge Classifier,Dataset after Missing Data Imputation,AUC,0.0,20,9,0,197
+Linear Discriminant Analysis,Dataset after Missing Data Imputation,AUC,0.9369,21,8,5,192
+Extra Trees Classifier,Dataset after Missing Data Imputation,AUC,0.9217,17,12,7,190
+K Neighbors Classifier,Dataset after Missing Data Imputation,AUC,0.8246,16,13,6,191
+CatBoost Classifier,Dataset after Missing Data Imputation,AUC,0.9373,0,0,0,0
+Extreme Gradient Boosting,Dataset after Missing Data Imputation,AUC,0.9327,19,10,5,192
+Gradient Boosting Classifier,Dataset after Missing Data Imputation,AUC,0.9349,18,11,7,190
+Ada Boost Classifier,Dataset after Missing Data Imputation,AUC,0.9157,20,9,5,192
+Random Forest Classifier,Dataset after Missing Data Imputation,AUC,0.8822,18,11,5,192
+Decision Tree Classifier,Dataset after Missing Data Imputation,AUC,0.7744,18,11,17,180
+SVM - Linear Kernel,Dataset after Missing Data Imputation,AUC,0.0,23,6,8,189
+Naive Bayes,Dataset after Missing Data Imputation,AUC,0.8777,28,1,89,108
+Quadratic Discriminant Analysis,Dataset after Missing Data Imputation,AUC,0.7759,28,1,7,80
+Logistic Regression,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.9431,187,10,11,186
+Light Gradient Boosting Machine,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.9229,194,3,9,188
+Ridge Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.0,188,9,14,183
+Linear Discriminant Analysis,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.9369,188,9,14,183
+Extra Trees Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.9217,191,6,10,187
+K Neighbors Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.8246,196,1,21,176
+CatBoost Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.9373,0,0,0,0
+Extreme Gradient Boosting,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.9327,194,3,11,186
+Gradient Boosting Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.9349,194,3,10,187
+Ada Boost Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.9157,186,11,11,186
+Random Forest Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.8822,190,7,10,187
+Decision Tree Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.7744,184,13,15,182
+SVM - Linear Kernel,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.0,192,5,32,165
+Naive Bayes,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.8777,183,14,41,156
+Quadratic Discriminant Analysis,Dataset after Missing Data Imputation and Dealing with Imbalance,AUC,0.7759,177,20,5,192
+Logistic Regression,Dataset after Missing Data Imputation,F1,0.9657,21,8,0,197
+Light Gradient Boosting Machine,Dataset after Missing Data Imputation,F1,0.96,17,12,5,192
+Ridge Classifier,Dataset after Missing Data Imputation,F1,0.9590000000000001,20,9,0,197
+Linear Discriminant Analysis,Dataset after Missing Data Imputation,F1,0.9546,21,8,5,192
+Extra Trees Classifier,Dataset after Missing Data Imputation,F1,0.9533,17,12,7,190
+K Neighbors Classifier,Dataset after Missing Data Imputation,F1,0.9546,16,13,6,191
+CatBoost Classifier,Dataset after Missing Data Imputation,F1,0.9540000000000001,0,0,0,0
+Extreme Gradient Boosting,Dataset after Missing Data Imputation,F1,0.9511,19,10,5,192
+Gradient Boosting Classifier,Dataset after Missing Data Imputation,F1,0.9513,18,11,7,190
+Ada Boost Classifier,Dataset after Missing Data Imputation,F1,0.9504,20,9,5,192
+Random Forest Classifier,Dataset after Missing Data Imputation,F1,0.9462,18,11,5,192
+Decision Tree Classifier,Dataset after Missing Data Imputation,F1,0.9382,18,11,17,180
+SVM - Linear Kernel,Dataset after Missing Data Imputation,F1,0.9186,23,6,8,189
+Naive Bayes,Dataset after Missing Data Imputation,F1,0.6907,28,1,89,108
+Quadratic Discriminant Analysis,Dataset after Missing Data Imputation,F1,0.6999,28,1,7,80
+Logistic Regression,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9657,187,10,11,186
+Light Gradient Boosting Machine,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.96,194,3,9,188
+Ridge Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9590000000000001,188,9,14,183
+Linear Discriminant Analysis,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9546,188,9,14,183
+Extra Trees Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9533,191,6,10,187
+K Neighbors Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9546,196,1,21,176
+CatBoost Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9540000000000001,0,0,0,0
+Extreme Gradient Boosting,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9511,194,3,11,186
+Gradient Boosting Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9513,194,3,10,187
+Ada Boost Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9504,186,11,11,186
+Random Forest Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9462,190,7,10,187
+Decision Tree Classifier,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9382,184,13,15,182
+SVM - Linear Kernel,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.9186,192,5,32,165
+Naive Bayes,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.6907,183,14,41,156
+Quadratic Discriminant Analysis,Dataset after Missing Data Imputation and Dealing with Imbalance,F1,0.6999,177,20,5,192
